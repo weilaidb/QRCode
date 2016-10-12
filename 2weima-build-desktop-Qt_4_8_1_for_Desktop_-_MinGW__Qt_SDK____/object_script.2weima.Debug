@@ -1,0 +1,16 @@
+INPUT(
+./debug/main.o
+./debug/widget.o
+./debug/bitstream.o
+./debug/mask.o
+./debug/mmask.o
+./debug/mqrspec.o
+./debug/qrencode.o
+./debug/qrinput.o
+./debug/qrspec.o
+./debug/rscode.o
+./debug/split.o
+./debug/erweima.o
+./debug/moc_widget.o
+./debug/moc_erweima.o
+);
